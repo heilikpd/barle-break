@@ -1,3 +1,4 @@
+'use strict';
 var arr = [],
   box,
   ei,
